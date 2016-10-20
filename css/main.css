@@ -11,3 +11,39 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  font-size: 1.125rem;
+  border: 3px solid;
+  border-color: #000;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  border-color: #ccc;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  color: #000;
+  border: 3px solid;
+}
+
+.btn-warning {
+  background-color: #f33;
+  border-color: #f33;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
